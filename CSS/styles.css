@@ -117,7 +117,8 @@ img{
     box-sizing: border-box;
     padding: 5px;
     border: 1px solid black;
-    box-shadow: 24px 26px 12px 0px #000;
+    box-shadow: 2px 3px 4px 1px #000;
+    margin-bottom: 3px;
 }
 
 #share ul li{
